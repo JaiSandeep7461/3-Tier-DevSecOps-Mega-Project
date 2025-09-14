@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: sandy7461/frontend:v26
+          image: sandy7461/frontend:v28
           imagePullPolicy: Always
           ports:
             - containerPort: 80
