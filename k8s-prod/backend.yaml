@@ -1,4 +1,4 @@
----
+--- 
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: adijaiswal/backend:latest
+          image: sandy7461/backend:latest
           ports:
             - containerPort: 5000
           env:
