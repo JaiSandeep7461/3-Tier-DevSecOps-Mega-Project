@@ -46,6 +46,6 @@ spec:
                   number: 80
   tls:
     - hosts:
-        - adityajaiswal.com
-        - www.adityajaiswal.com
+        - sandeeppeela.in
+        - www.sandeeppeela.in
       secretName: adityajaiswal-co-tls
