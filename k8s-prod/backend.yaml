@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: sandy7461/backend:latest
+          image: sandy7461/backend:v34
           ports:
             - containerPort: 5000
           env:
