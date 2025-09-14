@@ -9,7 +9,7 @@ function Layout({ children }) {
     <div className="app-layout">
       <header className="app-header slide-down">
         <div className="brand">
-          <img src={logo} alt="Sandy Devops logo" className="logo" />
+          <img src={logo} alt="Sandy Devops " className="logo" />
           <div>
             <h1 className="brand-title">Sandy Devops</h1>
             <p className="nav-subtitle">User Management</p>
