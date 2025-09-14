@@ -11,7 +11,7 @@ function Layout({ children }) {
         <div className="brand">
           <img src={logo} alt="Sandy Devops & Cloud" className="logo" />
           <div>
-            <h1 className="brand-title">Sandy Devops</h1>
+            <h1 className="brand-title">Sandy Devops & Cloud</h1>
             <p className="nav-subtitle">User Management</p>
           </div>
         </div>
